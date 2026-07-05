@@ -3,3 +3,6 @@ Module d'authentification
 - Connexion utilisateur
 - Déconnexion
 - Gestion des mots de passe
+- Connexion utilisateur 1
+- Déconnexion 2 
+- Gestion des mots de passe 3
