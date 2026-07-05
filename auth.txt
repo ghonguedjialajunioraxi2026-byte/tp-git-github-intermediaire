@@ -1,0 +1,5 @@
+Module d'authentification
+
+- Connexion utilisateur
+- Déconnexion
+- Gestion des mots de passe
